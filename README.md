@@ -128,24 +128,6 @@ The application will start locally and be accessible through your configured ser
 
 ---
 
-## Development Process
-
-PixelVault was developed using Agile Scrum practices, including sprint planning, iterative development, testing, code reviews, and continuous collaboration. The project emphasizes clean code, modular design, and maintainable software architecture.
-
----
-
-## Future Enhancements
-
-* Cloud storage integration
-* Album creation and sharing
-* Advanced search and filtering
-* Role-based access control
-* Real-time notifications
-* AI-powered image tagging and categorization
-* Mobile application support
-* Social sharing capabilities
-
----
 
 
 
