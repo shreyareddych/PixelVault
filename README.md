@@ -127,8 +127,3 @@ mvn spring-boot:run
 The application will start locally and be accessible through your configured server port.
 
 ---
-
-
-
-
-This project is intended for educational and learning purposes.
